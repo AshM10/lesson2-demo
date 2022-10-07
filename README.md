@@ -11,7 +11,7 @@
   - [Operators and Operands](#operators-and-operands)
   - [If Statements and For Loops](#if-statements-and-for-loops)
 - [Summary](#summary)
-- [What I've Learned](#what-i've-learned)
+- [What I've Learned](#what-ive-learned)
 - [Resources](#resources)
 
 ## Agenda
