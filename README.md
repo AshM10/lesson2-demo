@@ -11,6 +11,7 @@
   - [Operators and Operands](#operators-and-operands)
   - [If Statements and For Loops](#if-statements-and-for-loops)
 - [Summary](#summary)
+- [What I've Learned](#what-i've-learned)
 - [Resources](#resources)
 
 ## Agenda
@@ -65,6 +66,10 @@ You can see the JS execution of your website in the console and run your own JS 
 - We can combine variables using concatenation or interpolation
 - We can use the console to see what JS does behind the scenes
 - We can use operators and operands to run a lot of different types of operations and use them in for loops and if statements
+
+## What I've Learned
+
+- Try to compare a code or a description with day to day life. It makes things easier to understand and explain.
 
 ## Resources
 
